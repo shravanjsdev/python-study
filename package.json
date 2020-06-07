@@ -1,0 +1,19 @@
+{
+  "name": "pythoncodes",
+  "version": "1.0.0",
+  "description": "Learning python coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shravanjsdev/python-study.git"
+  },
+  "author": "Shravan Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shravanjsdev/python-study/issues"
+  },
+  "homepage": "https://github.com/shravanjsdev/python-study#readme"
+}
