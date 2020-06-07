@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="032afd83-a939-4229-8d7a-c20aae2df882" name="Default Changelist" comment="gitignore changes" />
+    <list default="true" id="032afd83-a939-4229-8d7a-c20aae2df882" name="Default Changelist" comment="gitignore changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +102,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="-221" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591535880859" />
+    <state x="158" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591538682019">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="158" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1591538682019" />
     <state x="181" y="368" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1591536156187">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
