@@ -16,3 +16,13 @@ org = 'Zoho'
 print(name)
 print(emp_id)
 print(org)
+
+# null and undefined are not a values in python and it cannot be assigned to a variable
+# variable hoisting feature is not there in python
+
+null = 5
+undefined = 10
+
+print(null)
+print(undefined)
+
