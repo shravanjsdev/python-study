@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032afd83-a939-4229-8d7a-c20aae2df882" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.py" afterDir="false" />
     </list>
@@ -41,6 +40,27 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Changed Files" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloworld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,6 +87,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="-221" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591535880859">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="-221" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591535880859" />
+    <state x="181" y="368" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1591536156187">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="181" y="368" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591536156187" />
+    <state x="174" y="164" key="EnvironmentVariablesDialog" timestamp="1591535878880">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="174" y="164" key="EnvironmentVariablesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591535878880" />
+    <state x="0" y="164" key="SettingsEditor" timestamp="1591536359109">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1591536359109" />
     <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1591517744726">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
