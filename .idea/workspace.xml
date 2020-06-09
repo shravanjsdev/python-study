@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032afd83-a939-4229-8d7a-c20aae2df882" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/datatypes/datatypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionary-datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/datatypes/dictionary-datatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/datatypes/list-datatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/number-datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/datatypes/number-datatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/range-datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/datatypes/range-datatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/set-datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/datatypes/set-datatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string-datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/datatypes/string-datatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple-datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/datatypes/tuple-datatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type-conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +49,14 @@
     <property name="TODO_SCOPE" value="All Changed Files" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.range-datatype">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/comment" />
+      <recent name="$PROJECT_DIR$/datatypes" />
+      <recent name="$PROJECT_DIR$/variables" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.type-conversion">
     <configuration name="dictionary-datatype" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,27 +141,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string-datatype" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datatypes/string-datatype.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="tuple-datatype" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,13 +162,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="type-conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type-conversion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.type-conversion" />
         <item itemvalue="Python.range-datatype" />
         <item itemvalue="Python.tuple-datatype" />
         <item itemvalue="Python.dictionary-datatype" />
         <item itemvalue="Python.list-datatype" />
-        <item itemvalue="Python.string-datatype" />
       </list>
     </recent_temporary>
   </component>
@@ -259,22 +259,22 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="174" y="164" key="EnvironmentVariablesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591535878880" />
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1591732182887">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1591733011871">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591732182887" />
-    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1591732182886">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591733011871" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1591733011870">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591732182886" />
-    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1591732182885">
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591733011870" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1591733011869">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591732182885" />
-    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1591732182887">
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591733011869" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1591733011871">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591732182887" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591733011871" />
     <state x="0" y="164" key="SettingsEditor" timestamp="1591536359109">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
