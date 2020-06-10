@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032afd83-a939-4229-8d7a-c20aae2df882" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/collections/collections.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/typeconversion" />
       <recent name="$PROJECT_DIR$/comment" />
       <recent name="$PROJECT_DIR$/datatypes" />
       <recent name="$PROJECT_DIR$/variables" />
@@ -173,7 +175,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type-conversion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/typeconversion/type-conversion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,30 +252,31 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="181" y="368" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591536156187" />
-    <state x="100" y="100" width="667" height="850" key="DiffContextDialog" timestamp="1591641395569">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="100" y="100" width="667" height="850" key="DiffContextDialog" timestamp="1591766006182">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="100" y="100" width="667" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591641395569" />
+    <state x="100" y="100" width="667" height="850" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1591766006182" />
     <state x="174" y="164" key="EnvironmentVariablesDialog" timestamp="1591535878880">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="174" y="164" key="EnvironmentVariablesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591535878880" />
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1591733020348">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1591767294123">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591733020348" />
-    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1591733020346">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591767294123" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1591767294121">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591733020346" />
-    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1591733020346">
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591767294121" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1591767294120">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591733020346" />
-    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1591733020347">
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591767294120" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1591767294122">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591733020347" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591767294122" />
     <state x="0" y="164" key="SettingsEditor" timestamp="1591536359109">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
