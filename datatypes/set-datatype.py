@@ -6,3 +6,6 @@
 
 set_var = {1, 2, 3, 'One', 'Two', 'Three', 1, 2, 3, 'One', 'Two', 'Three'}
 print(set_var)
+
+set_var.add('Six')
+print(set_var)
