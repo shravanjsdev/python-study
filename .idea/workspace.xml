@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032afd83-a939-4229-8d7a-c20aae2df882" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/collection/ordereddict.collections.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collection/counter.collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/collection/counter.collections.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <recent name="$PROJECT_DIR$/variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.counter.collections">
+  <component name="RunManager" selected="Python.ordereddict.collections">
     <configuration name="chainmap.collections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="namedtuple.collections (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ordereddict.collections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,7 +175,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collection/namedtuple.collections.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collection/ordereddict.collections.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ordereddict.collections" />
         <item itemvalue="Python.counter.collections" />
         <item itemvalue="Python.chainmap.collections" />
         <item itemvalue="Python.deque.collections" />
         <item itemvalue="Python.list-datatype" />
-        <item itemvalue="Python.namedtuple.collections (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -261,25 +261,25 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="174" y="164" key="EnvironmentVariablesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591535878880" />
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1592113115595">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1592114100686">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592113115595" />
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592114100686" />
     <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1591978485792" />
-    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1592113115594">
+    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1592114100685">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592113115594" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592114100685" />
     <state width="1659" height="295" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1591978485791" />
-    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1592113115593">
+    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1592114100684">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592113115593" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592114100684" />
     <state width="1659" height="295" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1591978485791" />
-    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1592113115594">
+    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1592114100685">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592113115594" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592114100685" />
     <state width="1659" height="295" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1591978485792" />
     <state width="1659" height="364" key="GridCell.Tab.1.bottom" timestamp="1592112506570">
       <screen x="0" y="0" width="1680" height="1050" />
