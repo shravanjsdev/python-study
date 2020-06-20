@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032afd83-a939-4229-8d7a-c20aae2df882" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/loop/for.loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashmap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       <recent name="$PROJECT_DIR$/variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.for.loop">
+  <component name="RunManager" selected="Python.hashmap">
     <configuration name="arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,27 +71,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrays.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="counter.collections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collection" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collection/counter.collections.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,6 +121,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hashmap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hashmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ordereddict.collections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while.loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collection/ordereddict.collections.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop/while.loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hashmap" />
+        <item itemvalue="Python.while.loop" />
         <item itemvalue="Python.for.loop" />
         <item itemvalue="Python.arrays" />
         <item itemvalue="Python.defaultdict.collections" />
-        <item itemvalue="Python.ordereddict.collections" />
-        <item itemvalue="Python.counter.collections" />
       </list>
     </recent_temporary>
   </component>
@@ -261,42 +261,46 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="174" y="164" key="EnvironmentVariablesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591535878880" />
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1592251087163">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1592675987605">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592251087163" />
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1591978485792" />
-    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1592251087162">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592675987605" />
+    <state width="1659" height="364" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317739" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1592675987604">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592251087162" />
-    <state width="1659" height="295" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1591978485791" />
-    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1592251087161">
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592675987604" />
+    <state width="1659" height="364" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317738" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1592675987603">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592251087161" />
-    <state width="1659" height="295" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1591978485791" />
-    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1592251087162">
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592675987603" />
+    <state width="1659" height="364" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317737" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1592675987604">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592251087162" />
-    <state width="1659" height="295" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1591978485792" />
-    <state width="1659" height="364" key="GridCell.Tab.1.bottom" timestamp="1592244699560">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592675987604" />
+    <state width="1659" height="364" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317738" />
+    <state width="1659" height="364" key="GridCell.Tab.1.bottom" timestamp="1592288317740">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1659" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592244699560" />
-    <state width="1659" height="364" key="GridCell.Tab.1.center" timestamp="1592244699559">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1659" height="364" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317740" />
+    <state width="1659" height="364" key="GridCell.Tab.1.center" timestamp="1592288317740">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1659" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592244699559" />
-    <state width="1659" height="364" key="GridCell.Tab.1.left" timestamp="1592244699559">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1659" height="364" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317740" />
+    <state width="1659" height="364" key="GridCell.Tab.1.left" timestamp="1592288317739">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1659" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592244699559" />
-    <state width="1659" height="364" key="GridCell.Tab.1.right" timestamp="1592244699560">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1659" height="364" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317739" />
+    <state width="1659" height="364" key="GridCell.Tab.1.right" timestamp="1592288317740">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1659" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592244699560" />
+    <state width="1659" height="364" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317740" />
     <state x="568" y="234" key="RollbackChangesDialog" timestamp="1591899093981">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -317,9 +321,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="640" y="390" key="scopes/0.0.1680.1050@0.0.1680.1050" timestamp="1591518426560" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1592248334560">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1592676021535">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1592248334560" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1592676021535" />
   </component>
 </project>
