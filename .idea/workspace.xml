@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032afd83-a939-4229-8d7a-c20aae2df882" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/operators/bitwise.operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/star-pyramid.pattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <recent name="$PROJECT_DIR$/variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bitwise.operator">
+  <component name="RunManager" selected="Python.star-pyramid.pattern">
     <configuration name="bitwise.operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,27 +72,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operators/bitwise.operator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="comparison.operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/operators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operators/comparison.operators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,13 +164,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="star-pyramid.pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pattern" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pattern/star-pyramid.pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.star-pyramid.pattern" />
         <item itemvalue="Python.bitwise.operator" />
         <item itemvalue="Python.membership.operators" />
         <item itemvalue="Python.identity.operators" />
         <item itemvalue="Python.logical.operators" />
-        <item itemvalue="Python.comparison.operators" />
       </list>
     </recent_temporary>
   </component>
@@ -253,54 +253,54 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="181" y="368" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591536156187" />
-    <state x="100" y="100" width="667" height="850" key="DiffContextDialog" timestamp="1591766006182">
+    <state x="100" y="100" width="667" height="850" key="DiffContextDialog" timestamp="1592762727489">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="100" y="100" width="667" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591641395569" />
-    <state x="100" y="100" width="667" height="850" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1591766006182" />
+    <state x="100" y="100" width="667" height="850" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592762727489" />
     <state x="174" y="164" key="EnvironmentVariablesDialog" timestamp="1591535878880">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="174" y="164" key="EnvironmentVariablesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591535878880" />
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1592759174326">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1592767613969">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592759174326" />
-    <state width="1659" height="364" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317739" />
-    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1592759174325">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592767613969" />
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592761355225" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1592767613968">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592759174325" />
-    <state width="1659" height="364" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317738" />
-    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1592759174324">
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592767613968" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592761355224" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1592767613967">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592759174324" />
-    <state width="1659" height="364" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317737" />
-    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1592759174326">
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592767613967" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592761355223" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1592767613968">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592759174326" />
-    <state width="1659" height="364" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317738" />
-    <state width="1659" height="364" key="GridCell.Tab.1.bottom" timestamp="1592288317740">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592767613968" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592761355224" />
+    <state width="1659" height="364" key="GridCell.Tab.1.bottom" timestamp="1592763931739">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592244699560" />
+    <state width="1659" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592763931739" />
     <state width="1659" height="364" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317740" />
-    <state width="1659" height="364" key="GridCell.Tab.1.center" timestamp="1592288317740">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1659" height="364" key="GridCell.Tab.1.center" timestamp="1592763931738">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592244699559" />
+    <state width="1659" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592763931738" />
     <state width="1659" height="364" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317740" />
-    <state width="1659" height="364" key="GridCell.Tab.1.left" timestamp="1592288317739">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1659" height="364" key="GridCell.Tab.1.left" timestamp="1592763931738">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592244699559" />
+    <state width="1659" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592763931738" />
     <state width="1659" height="364" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317739" />
-    <state width="1659" height="364" key="GridCell.Tab.1.right" timestamp="1592288317740">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1659" height="364" key="GridCell.Tab.1.right" timestamp="1592763931739">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592244699560" />
+    <state width="1659" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592763931739" />
     <state width="1659" height="364" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317740" />
     <state x="568" y="234" key="RollbackChangesDialog" timestamp="1591899093981">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -326,5 +326,16 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1592676021535" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
