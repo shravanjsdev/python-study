@@ -1,36 +1,20 @@
 # Star pyramid pattern
 
-# variable declaration
-rows = 0
-
-# Input prompt
 print("Enter the number of rows: ")
-rows = int(input())
+row = int(input())
 
 
-# function definition
-def invertedtrianglepattern(row):
-    pattern = ""
-    for i in range(0, row):
-        for j in range(0, (2 * row) - i):
-            if j <= i:
-                pattern = pattern + " "
-            else:
-                pattern = pattern + "*"
-        print(pattern)
-        pattern = ""
-
-
-def invertedtrianglepattern2(row):
-    for i in range(0, row):
-        for j in range(0, (2 * row) - i):
-            if j <= i:
+def starpyramidpattern(rows):
+    for i in range(1, rows):
+        start = rows - i
+        end = rows + i
+        for j in range(1, end):
+            if j <= start:
                 print(end=" ")
-            else:
+            elif j <= end:
                 print("*", end="")
+            else:
+                break
         print("\r")
 
 
-# Function call
-invertedtrianglepattern(rows)
-invertedtrianglepattern2(rows)
