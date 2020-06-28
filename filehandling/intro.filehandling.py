@@ -39,4 +39,8 @@
 
 # Example: open('shravan.py', wt) - Write in the file names shravan.py in text format
 
+# File open
+file1 = open('../pattern/diamond.pattern.py', 'r')
 
+# File close
+file1.close()
