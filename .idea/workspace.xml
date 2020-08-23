@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="032afd83-a939-4229-8d7a-c20aae2df882" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/decorators/fancy.decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/lambda.functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection/counter.collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/collection/counter.collections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/lambda.functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/lambda.functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +60,8 @@
       <recent name="$PROJECT_DIR$/datatypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lambda.functions">
-    <configuration name="decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.counter.collections">
+    <configuration name="chainmap.collections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decorators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators/decorators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collection/chainmap.collections.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="deletefile.filehandling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="counter.collections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/filehandling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filehandling/deletefile.filehandling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collection/counter.collections.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="docstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comment" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comment/docstring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lambda.functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="star-pyramid.pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pattern" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/lambda.functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pattern/star-pyramid.pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nested.functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="type-conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/typeconversion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/nested.functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/typeconversion/type-conversion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lambda.functions" />
-        <item itemvalue="Python.decorators" />
-        <item itemvalue="Python.nested.functions" />
-        <item itemvalue="Python.functions" />
-        <item itemvalue="Python.deletefile.filehandling" />
+        <item itemvalue="Python.counter.collections" />
+        <item itemvalue="Python.chainmap.collections" />
+        <item itemvalue="Python.docstring" />
+        <item itemvalue="Python.star-pyramid.pattern" />
+        <item itemvalue="Python.type-conversion" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591554003486</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Chainmap update">
+      <created>1598170716321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598170716321</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +247,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore changes" />
     <MESSAGE value=" String datatype 2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" String datatype 2" />
+    <MESSAGE value="Chainmap update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chainmap update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-221" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591535880859">
@@ -263,54 +271,54 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="588" y="387" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1680.1050@0.0.1680.1050" timestamp="1593111179810" />
-    <state x="100" y="100" width="667" height="850" key="DiffContextDialog" timestamp="1592762727489">
+    <state x="100" y="100" width="667" height="850" key="DiffContextDialog" timestamp="1598170848125">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="100" y="100" width="667" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591641395569" />
-    <state x="100" y="100" width="667" height="850" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1592762727489" />
+    <state x="100" y="100" width="667" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598170691065" />
+    <state x="100" y="100" width="667" height="850" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1598170848125" />
     <state x="174" y="164" key="EnvironmentVariablesDialog" timestamp="1591535878880">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="174" y="164" key="EnvironmentVariablesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591535878880" />
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1593372027595">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1598176946873">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593372027595" />
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598176946873" />
     <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592761355225" />
-    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1593372027594">
+    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1598176946872">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593372027594" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598176946872" />
     <state width="1659" height="295" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592761355224" />
-    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1593372027593">
+    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1598176946871">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593372027593" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598176946871" />
     <state width="1659" height="295" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592761355223" />
-    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1593372027594">
+    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1598176946872">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593372027594" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598176946872" />
     <state width="1659" height="295" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592761355224" />
-    <state width="1659" height="364" key="GridCell.Tab.1.bottom" timestamp="1593354247314">
+    <state width="1659" height="364" key="GridCell.Tab.1.bottom" timestamp="1593403107573">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593354247314" />
+    <state width="1659" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593403107573" />
     <state width="1659" height="364" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317740" />
-    <state width="1659" height="364" key="GridCell.Tab.1.center" timestamp="1593354247313">
+    <state width="1659" height="364" key="GridCell.Tab.1.center" timestamp="1593403107572">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593354247313" />
+    <state width="1659" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593403107572" />
     <state width="1659" height="364" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317740" />
-    <state width="1659" height="364" key="GridCell.Tab.1.left" timestamp="1593354247313">
+    <state width="1659" height="364" key="GridCell.Tab.1.left" timestamp="1593403107572">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593354247313" />
+    <state width="1659" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593403107572" />
     <state width="1659" height="364" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317739" />
-    <state width="1659" height="364" key="GridCell.Tab.1.right" timestamp="1593354247313">
+    <state width="1659" height="364" key="GridCell.Tab.1.right" timestamp="1593403107573">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593354247313" />
+    <state width="1659" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593403107573" />
     <state width="1659" height="364" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592288317740" />
     <state x="568" y="234" key="RollbackChangesDialog" timestamp="1591899093981">
       <screen x="0" y="0" width="1680" height="1050" />

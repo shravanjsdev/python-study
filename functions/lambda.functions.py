@@ -46,5 +46,27 @@ print('even list', evenlist)
 # Uses of lambda in map:
 # Applies a given function to all the iterables and returns a new list
 
+mappedlist = list(map(lambda x: x%2 == 0, list1))
+print('mappedlist', mappedlist)
 
+# They are best used within other higher order functions
+
+
+def func1(x):
+    return lambda y: x + y
+
+
+ins = func1(3)
+subins = ins(4)
+
+print('sub ins value', subins)
+
+# Using lambda functions in map, reduce, filter
+# Filter
+# Used to filter the given variables with the help of another function passed as an argument to test
+# all the elements to be true or false
+
+mynewlist = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+newfilteredlist = list(filter(lambda x: (x % 3 == 0), mynewlist))
+print('Filter: ', newfilteredlist)
 
